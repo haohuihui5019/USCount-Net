@@ -13,7 +13,7 @@ This repository contains the implementation of a novel semi-supervised learning 
 *We appreciate your understanding in maintaining research integrity during the peer review process. Please watch this repository for updates!*
 
 **Currently released:**  
-✅ Pretrained model inference code  
+✅ Pretrained model inference code
 ✅ Apple flower cluster dataset
 
 **To be released:**  
@@ -22,12 +22,12 @@ This repository contains the implementation of a novel semi-supervised learning 
 
 ## 📥 Resources
 ### Pretrained Models
-Download pretrained model weights:
+Download pretrained model weights trained on the Flower Cluster dataset with a 30% labeling ratio:
 ```bash
-https://drive.google.com/drive/folders/1T273o0mHj23700C3tlbc1nDUgsUcmINs?usp=drive_link
+https://drive.google.com/file/d/1pHtOO1Q6SqisQv0bTXE9oPQ-aoY3MkFc/view?usp=drive_link
 ```
-### Test Set
-Prepare the Test data:
+### Data Set
+Prepare the Test data and Train data:
 ```bash
 https://drive.google.com/drive/folders/1KP8H0qIuct56hWre5GV6ZJnzwqOY3Pip?usp=drive_link
 ```
