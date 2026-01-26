@@ -29,5 +29,5 @@ https://drive.google.com/file/d/1pHtOO1Q6SqisQv0bTXE9oPQ-aoY3MkFc/view?usp=drive
 ### Dataset
 Prepare the Test data and Train data:
 ```bash
-https://drive.google.com/drive/folders/1KP8H0qIuct56hWre5GV6ZJnzwqOY3Pip?usp=drive_link
+https://drive.google.com/drive/folders/1KP8H0qIuct56hWre5GV6ZJnzwqOY3Pip
 ```
